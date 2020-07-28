@@ -28,7 +28,17 @@ plop.load("plop-action-copy")
 
 Once loaded, you now have access the following actions.
 
-`copy`
+#### `copy`
+
+Copies a file from a source path to a destination path.
+
+```javascript
+{
+    type: "copy",
+    src: "templates/default.jpg",
+    dest: "my-blog-post/images/default.jpg"
+}
+```
 
 ### ❔ questions
 
