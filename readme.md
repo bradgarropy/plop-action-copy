@@ -1,43 +1,43 @@
-## 💧 plop-pack-actions
+## 💧 plop-action-copy
 
-<a href="https://npmjs.com/package/@bradgarropy/plop-pack-actions">
-    <img alt="npm" src="https://img.shields.io/npm/v/@bradgarropy/plop-pack-actions.svg?style=flat-square">
+<a href="https://npmjs.com/package/plop-action-copy">
+    <img alt="npm" src="https://img.shields.io/npm/v/plop-action-copy.svg?style=flat-square">
 </a>
 
-<a href="https://npmjs.com/package/@bradgarropy/plop-pack-actions">
-    <img alt="npm" src="https://img.shields.io/npm/dt/@bradgarropy/plop-pack-actions?style=flat-square">
+<a href="https://npmjs.com/package/plop-action-copy">
+    <img alt="npm" src="https://img.shields.io/npm/dt/plop-action-copy?style=flat-square">
 </a>
 
-_A collection of [plop][plop] actions to make your life easier._
+_A [plop][plop] action to copy files._
 
 ### 📦 Installation
 
 This package is installable from [npm][npm].
 
-```
-npm install --save-dev @bradgarropy/plop-pack-actions
+```shell
+npm install --save-dev plop-action-copy
 ```
 
 ### 🥑 Usage
 
 Before you can use the `plop-pack`, you have to load it into the `plop` object.
 
-```
-plop.load("@bradgarropy/plop-pack-actions")
+```javascript
+plop.load("plop-action-copy")
 ```
 
 Once loaded, you now have access the following actions.
 
 `copy`
 
-### ❔ Questions
+### ❔ questions
 
-If you have any trouble, definitely [open an issue][issue] and I'll take a look.
-
-If all else fails, you can ask me directly on [Twitter][twitter] or my [AMA][ama].
+🐛 report bugs by filing [issues][issues]  
+📢 provide feedback with [issues][issues] or on [twitter][twitter]  
+🙋🏼‍♂️ use my [ama][ama] or [twitter][twitter] to ask any other questions
 
 [plop]: https://plopjs.com
 [npm]: https://npmjs.com
-[issue]: https://github.com/bradgarropy/plop-pack-actions/issues
+[issues]: https://github.com/bradgarropy/plop-action-copy/issues
 [twitter]: https://twitter.com/bradgarropy
 [ama]: https://github.com/bradgarropy/ama
