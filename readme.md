@@ -14,7 +14,7 @@ _A [plop][plop] action to copy files._
 
 This package is installable from [npm][npm].
 
-```shell
+```bash
 npm install --save-dev plop-action-copy
 ```
 
@@ -40,7 +40,7 @@ Copies a file from a source path to a destination path.
 }
 ```
 
-### ❔ questions
+### ❔ Questions
 
 🐛 report bugs by filing [issues][issues]  
 📢 provide feedback with [issues][issues] or on [twitter][twitter]  
