@@ -53,7 +53,8 @@ Copies a file from a source path to a destination path.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://bradgarropy.com"><img src="https://avatars.githubusercontent.com/u/11336745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brad Garropy</b></sub></a><br /><a href="https://github.com/bradgarropy/use-countdown/commits?author=bradgarropy" title="Code">💻</a> <a href="https://github.com/bradgarropy/use-countdown/commits?author=bradgarropy" title="Documentation">📖</a> <a href="https://github.com/bradgarropy/use-countdown/commits?author=bradgarropy" title="Tests">⚠️</a> <a href="#infra-bradgarropy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://bradgarropy.com"><img src="https://avatars.githubusercontent.com/u/11336745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brad Garropy</b></sub></a><br /><a href="https://github.com/bradgarropy/plop-action-copy/commits?author=bradgarropy" title="Code">💻</a> <a href="https://github.com/bradgarropy/plop-action-copy/commits?author=bradgarropy" title="Documentation">📖</a> <a href="https://github.com/bradgarropy/plop-action-copy/commits?author=bradgarropy" title="Tests">⚠️</a> <a href="#infra-bradgarropy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://anthonywhitaker.me"><img src="https://avatars.githubusercontent.com/u/581357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anthony Whitaker</b></sub></a><br /><a href="https://github.com/bradgarropy/plop-action-copy/commits?author=AnthonyWhitaker" title="Code">💻</a></td>
   </tr>
 </table>
 
