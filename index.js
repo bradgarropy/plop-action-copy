@@ -10,7 +10,7 @@ const actions = plop => {
 
         const dirname = path.dirname(dest)
 
-        fs.mkdirSync(dirname)
+        fs.mkdirSync(dirname, { recursive: true })
         fs.copyFileSync(src, dest)
     })
 }
