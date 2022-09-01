@@ -35,7 +35,6 @@
     "devDependencies": {
         "@babel/eslint-parser": "^7.18.9",
         "@bradgarropy/eslint-config": "^1.2.3",
-        "babel-eslint": "^10.1.0",
         "eslint": "^8.23.0",
         "prettier": "^2.7.1"
     }
