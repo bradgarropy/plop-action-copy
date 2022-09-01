@@ -1,13 +1,15 @@
 {
     "name": "plop-action-copy",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "💧 plop action copy",
     "keywords": [
         "plop",
         "plop-pack",
         "plop-action",
         "action-type",
-        "copy"
+        "copy",
+        "eslint",
+        "prettier"
     ],
     "homepage": "https://npmjs.com/package/plop-action-copy",
     "bugs": {
@@ -24,15 +26,17 @@
         "type": "git",
         "url": "https://github.com/bradgarropy/plop-action-copy"
     },
-    "scripts": {},
-    "dependencies": {},
-    "devDependencies": {
-        "babel-eslint": "^10.1.0",
-        "eslint": "^7.4.0",
-        "eslint-config-bradgarropy": "^1.3.1",
-        "eslint-plugin-jsx-a11y": "^6.3.1",
-        "eslint-plugin-react": "^7.20.3",
-        "eslint-plugin-react-hooks": "^4.0.5"
+    "scripts": {
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix .",
+        "format": "prettier --check .",
+        "format:fix": "prettier --write ."
     },
-    "peerDependencies": {}
+    "devDependencies": {
+        "@babel/eslint-parser": "^7.18.9",
+        "@bradgarropy/eslint-config": "^1.2.3",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^8.23.0",
+        "prettier": "^2.7.1"
+    }
 }
